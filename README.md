@@ -3,7 +3,8 @@
 A simple, animated Ferris Wheel built with HTML and CSS. This project visually demonstrates CSS animations, transforms, and creative layout techniques—no JavaScript required!
 
 ## 🌐 Live Demo
-[View Demo](https://issamsensi.github.io/mobapps/WHEEL/)
+[View Demo](https://issamsensi.github.io/WHEEL/)
+
 
 ## 📸 Screenshot
 ![Ferris Wheel Screenshot](screens/wheel.png)
