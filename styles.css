@@ -1,3 +1,6 @@
+body{
+  padding: 30px;
+}
 .wheel {
   border: 2px solid black;
   border-radius: 50%;
