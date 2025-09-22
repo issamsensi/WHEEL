@@ -32,8 +32,8 @@ WHEEL/
 ## 🚀 How to Use
 1. **Clone the repository**
    ```zsh
-   git clone https://github.com/issamsensi/mobapps.git
-   cd mobapps/WHEEL
+   git clone https://github.com/issamsensi/WHEEL.git
+   cd WHEEL
    ```
 2. **Open `index.html` in your browser**
 3. Enjoy the animated Ferris Wheel!
