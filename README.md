@@ -1,5 +1,7 @@
 # Ferris Wheel Animation
 
+> This is a [freeCodeCamp](https://www.freecodecamp.org/) project.
+
 A simple, animated Ferris Wheel built with HTML and CSS. This project visually demonstrates CSS animations, transforms, and creative layout techniques—no JavaScript required!
 
 ## 🌐 Live Demo
